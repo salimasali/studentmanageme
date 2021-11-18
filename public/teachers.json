@@ -1,0 +1,17 @@
+{
+    "teachers":[
+        {
+            "id": 1,
+             "name": "Radha"
+        },
+        {
+            "id": 2,
+             "name": "Reena"
+        },
+        {
+            "id": 3,
+             "name": "Heena"
+        }
+         
+    ]
+}
